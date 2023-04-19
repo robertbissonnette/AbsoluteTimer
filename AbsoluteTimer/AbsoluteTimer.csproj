@@ -1,14 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <OutputType>Library</OutputType>
     <PackageId>AbsoluteTimer.LinuxCompat</PackageId>
     <Title>AbsoluteTimer</Title>
     <Product>AbsoluteTimer</Product>
     <Company>Robert Bissonnette</Company>
     <Copyright>Copyright (c) Robert Bissonnette</Copyright>
-    <Version>1.1.1</Version>
+    <Version>1.1.2</Version>
     <Authors>$(Company)</Authors>
     <Description>
       Linux Compat:
