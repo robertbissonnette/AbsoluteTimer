@@ -3,17 +3,24 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <OutputType>Library</OutputType>
+    <PackageId>AbsoluteTimer.LinuxCompat</PackageId>
     <Title>AbsoluteTimer</Title>
     <Product>AbsoluteTimer</Product>
-    <Company>Jiří Činčura</Company>
-    <Copyright>Copyright (c) Jiri Cincura</Copyright>
-    <Version>1.1.0</Version>
+    <Company>Robert Bissonnette</Company>
+    <Copyright>Copyright (c) Robert Bissonnette</Copyright>
+    <Version>1.1.1</Version>
     <Authors>$(Company)</Authors>
-    <Description>Timers from Windows / Linux kernels that supports absolute time.
+    <Description>
+      Linux Compat:
+        https://github.com/davidrpalmer/AbsoluteTimer
+      Main Project:
+        https://github.com/cincuranet/AbsoluteTimer
+        
+      Timers from Windows / Linux kernels that supports absolute time.
 
-More info: http://blog.cincura.net/id/233549/ .</Description>
-    <PackageProjectUrl>https://github.com/cincuranet/AbsoluteTimer</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/cincuranet/AbsoluteTimer</RepositoryUrl>
+      More info: http://blog.cincura.net/id/233549/ .</Description>
+    <PackageProjectUrl>https://github.com/robertbissonnette/AbsoluteTimer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/robertbissonnette/AbsoluteTimer</RepositoryUrl>
     <PackageTags>timer, time, absolute, date</PackageTags>
   </PropertyGroup>
 
